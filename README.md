@@ -94,7 +94,30 @@ You have the right to:
 
 ---
 
-## 9. Advertising
+## 9. Account Deletion
+
+You can delete your account directly from within the EduSlayer app.
+
+### Steps to delete your account:
+
+1. Open the EduSlayer app
+2. Go to the Profile section
+3. Tap on the menu (three dots) in the top corner
+4. Select "Delete Account"
+5. Confirm your account deletion
+
+### What happens after deletion:
+
+* Your account will be permanently deleted
+* All personal data (including email, username, quiz progress, and leaderboard data) will be removed
+* This action cannot be undone
+
+### Data Retention after deletion:
+
+* Some minimal data may be retained for up to 30 days for security and legal purposes, after which it is permanently deleted
+* 
+
+## 10. Advertising
 
 - We use Google AdMob to display ads within the App.
 - Some quiz sets are unlocked by watching rewarded video ads.
@@ -103,13 +126,13 @@ You have the right to:
 
 ---
 
-## 10. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
 
 ---
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
